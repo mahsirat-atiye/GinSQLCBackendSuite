@@ -1,4 +1,4 @@
-# Simple backend project 
+# Backend project 
 ## Combination of followings
 - [gin](https://github.com/gin-gonic/gin)
 - [migration](https://github.com/golang-migrate/migrate)
